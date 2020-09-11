@@ -1,0 +1,6 @@
+host:
+  api: http://web.juhe.cn:8080
+
+#转换为json相当于{host:{ 
+#           api: 'http://web.juhe.cn:8080'}
+#  }
